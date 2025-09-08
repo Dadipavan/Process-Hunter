@@ -24,7 +24,7 @@ Process-Hunter/
 ├── process_hunter.c   # Main C program
 └── README.md          # Documentation
 
-
+--- ## 🖥️ Example Output
 Enter Process ID (PID): 1234
 
 Fetching information for PID: 1234
