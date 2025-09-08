@@ -19,16 +19,12 @@ This program uses the Linux `/proc` filesystem to fetch detailed information abo
 ---
 
 ## 📂 Project Structure
-
+```plaintext
 Process-Hunter/
-├── process_hunter.c # Main C program
-└── README.md # Documentation
+├── process_hunter.c   # Main C program
+└── README.md          # Documentation
 
----
 
-## 🖥️ Example Output
-
-```text
 Enter Process ID (PID): 1234
 
 Fetching information for PID: 1234
@@ -45,3 +41,8 @@ VmSize: 12456 kB
 Executable Path  : /usr/bin/bash
 ---------------------------------------
 Process information retrieved successfully.
+
+
+git clone https://github.com/Dadipavan/Process-Hunter.git
+cd Process-Hunter
+
