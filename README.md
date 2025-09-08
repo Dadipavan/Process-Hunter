@@ -20,7 +20,9 @@ This program uses the Linux `/proc` filesystem to fetch detailed information abo
 
 ## 📂 Project Structure
 
-
+Process-Hunter/
+├── process_hunter.c # Main C program
+└── README.md # Documentation
 
 ---
 
